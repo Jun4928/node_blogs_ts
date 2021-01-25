@@ -1,4 +1,4 @@
-# Blogs API with TypeScript for Node.js Session
+# Blogs API with TypeScript
 
 ## Technical Stack
 
